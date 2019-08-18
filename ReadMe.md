@@ -1,4 +1,4 @@
-read csv/tsv/orc/parquet files and writes to habse
+read csv/tsv/orc/parquet files and writes to cassandra
 
 accepts to 3 argumnets
 
